@@ -1,0 +1,232 @@
+[2022-09-22 07:37:03,456] {scheduler_job.py:182} INFO - Started process (PID=2830) to work on /opt/airflow/dags/postgresoperator_demo.py
+[2022-09-22 07:37:03,457] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/postgresoperator_demo.py for tasks to queue
+[2022-09-22 07:37:03,458] {logging_mixin.py:104} INFO - [2022-09-22 07:37:03,458] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/postgresoperator_demo.py
+[2022-09-22 07:37:03,610] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['postgresoperator_demo']) retrieved from /opt/airflow/dags/postgresoperator_demo.py
+[2022-09-22 07:37:03,697] {logging_mixin.py:104} INFO - [2022-09-22 07:37:03,697] {dag.py:1818} INFO - Sync 1 DAGs
+[2022-09-22 07:37:03,735] {logging_mixin.py:104} INFO - [2022-09-22 07:37:03,735] {dag.py:1837} INFO - Creating ORM DAG for postgresoperator_demo
+[2022-09-22 07:37:03,748] {logging_mixin.py:104} INFO - [2022-09-22 07:37:03,748] {dag.py:2273} INFO - Setting next_dagrun for postgresoperator_demo to 2022-09-21 00:00:00+00:00
+[2022-09-22 07:37:03,784] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/postgresoperator_demo.py took 0.332 seconds
+[2022-09-22 07:37:33,950] {scheduler_job.py:182} INFO - Started process (PID=2857) to work on /opt/airflow/dags/postgresoperator_demo.py
+[2022-09-22 07:37:33,953] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/postgresoperator_demo.py for tasks to queue
+[2022-09-22 07:37:33,955] {logging_mixin.py:104} INFO - [2022-09-22 07:37:33,954] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/postgresoperator_demo.py
+[2022-09-22 07:37:34,004] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['postgresoperator_demo']) retrieved from /opt/airflow/dags/postgresoperator_demo.py
+[2022-09-22 07:37:34,034] {logging_mixin.py:104} INFO - [2022-09-22 07:37:34,034] {dag.py:1818} INFO - Sync 1 DAGs
+[2022-09-22 07:37:34,051] {logging_mixin.py:104} INFO - [2022-09-22 07:37:34,051] {dag.py:2273} INFO - Setting next_dagrun for postgresoperator_demo to 2022-09-21 00:00:00+00:00
+[2022-09-22 07:37:34,066] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/postgresoperator_demo.py took 0.123 seconds
+[2022-09-22 07:38:04,125] {scheduler_job.py:182} INFO - Started process (PID=2884) to work on /opt/airflow/dags/postgresoperator_demo.py
+[2022-09-22 07:38:04,126] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/postgresoperator_demo.py for tasks to queue
+[2022-09-22 07:38:04,128] {logging_mixin.py:104} INFO - [2022-09-22 07:38:04,128] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/postgresoperator_demo.py
+[2022-09-22 07:38:04,168] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['postgresoperator_demo']) retrieved from /opt/airflow/dags/postgresoperator_demo.py
+[2022-09-22 07:38:04,194] {logging_mixin.py:104} INFO - [2022-09-22 07:38:04,194] {dag.py:1818} INFO - Sync 1 DAGs
+[2022-09-22 07:38:04,210] {logging_mixin.py:104} INFO - [2022-09-22 07:38:04,210] {dag.py:2273} INFO - Setting next_dagrun for postgresoperator_demo to 2022-09-21 00:00:00+00:00
+[2022-09-22 07:38:04,225] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/postgresoperator_demo.py took 0.104 seconds
+[2022-09-22 07:38:35,065] {scheduler_job.py:182} INFO - Started process (PID=2911) to work on /opt/airflow/dags/postgresoperator_demo.py
+[2022-09-22 07:38:35,111] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/postgresoperator_demo.py for tasks to queue
+[2022-09-22 07:38:35,134] {logging_mixin.py:104} INFO - [2022-09-22 07:38:35,134] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/postgresoperator_demo.py
+[2022-09-22 07:38:35,301] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['postgresoperator_demo']) retrieved from /opt/airflow/dags/postgresoperator_demo.py
+[2022-09-22 07:38:35,375] {logging_mixin.py:104} INFO - [2022-09-22 07:38:35,375] {dag.py:1818} INFO - Sync 1 DAGs
+[2022-09-22 07:38:35,431] {logging_mixin.py:104} INFO - [2022-09-22 07:38:35,431] {dag.py:2273} INFO - Setting next_dagrun for postgresoperator_demo to 2022-09-21 00:00:00+00:00
+[2022-09-22 07:38:35,485] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/postgresoperator_demo.py took 0.427 seconds
+[2022-09-22 07:39:06,315] {scheduler_job.py:182} INFO - Started process (PID=2938) to work on /opt/airflow/dags/postgresoperator_demo.py
+[2022-09-22 07:39:06,316] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/postgresoperator_demo.py for tasks to queue
+[2022-09-22 07:39:06,317] {logging_mixin.py:104} INFO - [2022-09-22 07:39:06,317] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/postgresoperator_demo.py
+[2022-09-22 07:39:06,364] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['postgresoperator_demo']) retrieved from /opt/airflow/dags/postgresoperator_demo.py
+[2022-09-22 07:39:06,391] {logging_mixin.py:104} INFO - [2022-09-22 07:39:06,391] {dag.py:1818} INFO - Sync 1 DAGs
+[2022-09-22 07:39:06,412] {logging_mixin.py:104} INFO - [2022-09-22 07:39:06,412] {dag.py:2273} INFO - Setting next_dagrun for postgresoperator_demo to 2022-09-21 00:00:00+00:00
+[2022-09-22 07:39:06,427] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/postgresoperator_demo.py took 0.117 seconds
+[2022-09-22 07:39:37,325] {scheduler_job.py:182} INFO - Started process (PID=2965) to work on /opt/airflow/dags/postgresoperator_demo.py
+[2022-09-22 07:39:37,327] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/postgresoperator_demo.py for tasks to queue
+[2022-09-22 07:39:37,328] {logging_mixin.py:104} INFO - [2022-09-22 07:39:37,328] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/postgresoperator_demo.py
+[2022-09-22 07:39:37,380] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['postgresoperator_demo']) retrieved from /opt/airflow/dags/postgresoperator_demo.py
+[2022-09-22 07:39:37,413] {logging_mixin.py:104} INFO - [2022-09-22 07:39:37,413] {dag.py:1818} INFO - Sync 1 DAGs
+[2022-09-22 07:39:37,437] {logging_mixin.py:104} INFO - [2022-09-22 07:39:37,437] {dag.py:2273} INFO - Setting next_dagrun for postgresoperator_demo to 2022-09-21 00:00:00+00:00
+[2022-09-22 07:39:37,457] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/postgresoperator_demo.py took 0.135 seconds
+[2022-09-22 07:40:07,853] {scheduler_job.py:182} INFO - Started process (PID=2992) to work on /opt/airflow/dags/postgresoperator_demo.py
+[2022-09-22 07:40:07,858] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/postgresoperator_demo.py for tasks to queue
+[2022-09-22 07:40:07,864] {logging_mixin.py:104} INFO - [2022-09-22 07:40:07,864] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/postgresoperator_demo.py
+[2022-09-22 07:40:08,044] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['postgresoperator_demo']) retrieved from /opt/airflow/dags/postgresoperator_demo.py
+[2022-09-22 07:40:08,078] {logging_mixin.py:104} INFO - [2022-09-22 07:40:08,078] {dag.py:1818} INFO - Sync 1 DAGs
+[2022-09-22 07:40:08,119] {logging_mixin.py:104} INFO - [2022-09-22 07:40:08,119] {dag.py:2273} INFO - Setting next_dagrun for postgresoperator_demo to None
+[2022-09-22 07:40:08,140] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/postgresoperator_demo.py took 0.293 seconds
+[2022-09-22 07:40:39,182] {scheduler_job.py:182} INFO - Started process (PID=3024) to work on /opt/airflow/dags/postgresoperator_demo.py
+[2022-09-22 07:40:39,184] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/postgresoperator_demo.py for tasks to queue
+[2022-09-22 07:40:39,185] {logging_mixin.py:104} INFO - [2022-09-22 07:40:39,185] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/postgresoperator_demo.py
+[2022-09-22 07:40:39,226] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['postgresoperator_demo']) retrieved from /opt/airflow/dags/postgresoperator_demo.py
+[2022-09-22 07:40:39,250] {logging_mixin.py:104} INFO - [2022-09-22 07:40:39,250] {dag.py:1818} INFO - Sync 1 DAGs
+[2022-09-22 07:40:39,265] {logging_mixin.py:104} INFO - [2022-09-22 07:40:39,265] {dag.py:2273} INFO - Setting next_dagrun for postgresoperator_demo to None
+[2022-09-22 07:40:39,279] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/postgresoperator_demo.py took 0.100 seconds
+[2022-09-22 07:41:09,374] {scheduler_job.py:182} INFO - Started process (PID=3051) to work on /opt/airflow/dags/postgresoperator_demo.py
+[2022-09-22 07:41:09,376] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/postgresoperator_demo.py for tasks to queue
+[2022-09-22 07:41:09,377] {logging_mixin.py:104} INFO - [2022-09-22 07:41:09,377] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/postgresoperator_demo.py
+[2022-09-22 07:41:09,425] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['postgresoperator_demo']) retrieved from /opt/airflow/dags/postgresoperator_demo.py
+[2022-09-22 07:41:09,451] {logging_mixin.py:104} INFO - [2022-09-22 07:41:09,451] {dag.py:1818} INFO - Sync 1 DAGs
+[2022-09-22 07:41:09,469] {logging_mixin.py:104} INFO - [2022-09-22 07:41:09,469] {dag.py:2273} INFO - Setting next_dagrun for postgresoperator_demo to None
+[2022-09-22 07:41:09,484] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/postgresoperator_demo.py took 0.114 seconds
+[2022-09-22 07:41:39,772] {scheduler_job.py:182} INFO - Started process (PID=3078) to work on /opt/airflow/dags/postgresoperator_demo.py
+[2022-09-22 07:41:39,774] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/postgresoperator_demo.py for tasks to queue
+[2022-09-22 07:41:39,775] {logging_mixin.py:104} INFO - [2022-09-22 07:41:39,775] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/postgresoperator_demo.py
+[2022-09-22 07:41:39,822] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['postgresoperator_demo']) retrieved from /opt/airflow/dags/postgresoperator_demo.py
+[2022-09-22 07:41:39,848] {logging_mixin.py:104} INFO - [2022-09-22 07:41:39,848] {dag.py:1818} INFO - Sync 1 DAGs
+[2022-09-22 07:41:39,864] {logging_mixin.py:104} INFO - [2022-09-22 07:41:39,864] {dag.py:2273} INFO - Setting next_dagrun for postgresoperator_demo to None
+[2022-09-22 07:41:39,882] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/postgresoperator_demo.py took 0.114 seconds
+[2022-09-22 07:42:10,449] {scheduler_job.py:182} INFO - Started process (PID=3105) to work on /opt/airflow/dags/postgresoperator_demo.py
+[2022-09-22 07:42:10,451] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/postgresoperator_demo.py for tasks to queue
+[2022-09-22 07:42:10,452] {logging_mixin.py:104} INFO - [2022-09-22 07:42:10,452] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/postgresoperator_demo.py
+[2022-09-22 07:42:10,500] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['postgresoperator_demo']) retrieved from /opt/airflow/dags/postgresoperator_demo.py
+[2022-09-22 07:42:10,528] {logging_mixin.py:104} INFO - [2022-09-22 07:42:10,528] {dag.py:1818} INFO - Sync 1 DAGs
+[2022-09-22 07:42:10,561] {logging_mixin.py:104} INFO - [2022-09-22 07:42:10,561] {dag.py:2273} INFO - Setting next_dagrun for postgresoperator_demo to None
+[2022-09-22 07:42:10,582] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/postgresoperator_demo.py took 0.138 seconds
+[2022-09-22 07:42:41,209] {scheduler_job.py:182} INFO - Started process (PID=3132) to work on /opt/airflow/dags/postgresoperator_demo.py
+[2022-09-22 07:42:41,223] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/postgresoperator_demo.py for tasks to queue
+[2022-09-22 07:42:41,239] {logging_mixin.py:104} INFO - [2022-09-22 07:42:41,239] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/postgresoperator_demo.py
+[2022-09-22 07:42:41,360] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['postgresoperator_demo']) retrieved from /opt/airflow/dags/postgresoperator_demo.py
+[2022-09-22 07:42:41,392] {logging_mixin.py:104} INFO - [2022-09-22 07:42:41,392] {dag.py:1818} INFO - Sync 1 DAGs
+[2022-09-22 07:42:41,413] {logging_mixin.py:104} INFO - [2022-09-22 07:42:41,413] {dag.py:2273} INFO - Setting next_dagrun for postgresoperator_demo to None
+[2022-09-22 07:42:41,428] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/postgresoperator_demo.py took 0.249 seconds
+[2022-09-22 07:43:12,290] {scheduler_job.py:182} INFO - Started process (PID=3159) to work on /opt/airflow/dags/postgresoperator_demo.py
+[2022-09-22 07:43:12,292] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/postgresoperator_demo.py for tasks to queue
+[2022-09-22 07:43:12,294] {logging_mixin.py:104} INFO - [2022-09-22 07:43:12,294] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/postgresoperator_demo.py
+[2022-09-22 07:43:12,396] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['postgresoperator_demo']) retrieved from /opt/airflow/dags/postgresoperator_demo.py
+[2022-09-22 07:43:12,466] {logging_mixin.py:104} INFO - [2022-09-22 07:43:12,466] {dag.py:1818} INFO - Sync 1 DAGs
+[2022-09-22 07:43:12,492] {logging_mixin.py:104} INFO - [2022-09-22 07:43:12,492] {dag.py:2273} INFO - Setting next_dagrun for postgresoperator_demo to None
+[2022-09-22 07:43:12,520] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/postgresoperator_demo.py took 0.242 seconds
+[2022-09-22 07:43:43,060] {scheduler_job.py:182} INFO - Started process (PID=3186) to work on /opt/airflow/dags/postgresoperator_demo.py
+[2022-09-22 07:43:43,062] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/postgresoperator_demo.py for tasks to queue
+[2022-09-22 07:43:43,063] {logging_mixin.py:104} INFO - [2022-09-22 07:43:43,063] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/postgresoperator_demo.py
+[2022-09-22 07:43:43,106] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['postgresoperator_demo']) retrieved from /opt/airflow/dags/postgresoperator_demo.py
+[2022-09-22 07:43:43,131] {logging_mixin.py:104} INFO - [2022-09-22 07:43:43,131] {dag.py:1818} INFO - Sync 1 DAGs
+[2022-09-22 07:43:43,148] {logging_mixin.py:104} INFO - [2022-09-22 07:43:43,148] {dag.py:2273} INFO - Setting next_dagrun for postgresoperator_demo to None
+[2022-09-22 07:43:43,163] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/postgresoperator_demo.py took 0.106 seconds
+[2022-09-22 07:44:14,163] {scheduler_job.py:182} INFO - Started process (PID=3213) to work on /opt/airflow/dags/postgresoperator_demo.py
+[2022-09-22 07:44:14,165] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/postgresoperator_demo.py for tasks to queue
+[2022-09-22 07:44:14,166] {logging_mixin.py:104} INFO - [2022-09-22 07:44:14,166] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/postgresoperator_demo.py
+[2022-09-22 07:44:14,207] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['postgresoperator_demo']) retrieved from /opt/airflow/dags/postgresoperator_demo.py
+[2022-09-22 07:44:14,234] {logging_mixin.py:104} INFO - [2022-09-22 07:44:14,233] {dag.py:1818} INFO - Sync 1 DAGs
+[2022-09-22 07:44:14,250] {logging_mixin.py:104} INFO - [2022-09-22 07:44:14,250] {dag.py:2273} INFO - Setting next_dagrun for postgresoperator_demo to None
+[2022-09-22 07:44:14,264] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/postgresoperator_demo.py took 0.104 seconds
+[2022-09-22 07:44:44,878] {scheduler_job.py:182} INFO - Started process (PID=3240) to work on /opt/airflow/dags/postgresoperator_demo.py
+[2022-09-22 07:44:44,884] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/postgresoperator_demo.py for tasks to queue
+[2022-09-22 07:44:44,886] {logging_mixin.py:104} INFO - [2022-09-22 07:44:44,885] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/postgresoperator_demo.py
+[2022-09-22 07:44:45,083] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['postgresoperator_demo']) retrieved from /opt/airflow/dags/postgresoperator_demo.py
+[2022-09-22 07:44:45,134] {logging_mixin.py:104} INFO - [2022-09-22 07:44:45,133] {dag.py:1818} INFO - Sync 1 DAGs
+[2022-09-22 07:44:45,162] {logging_mixin.py:104} INFO - [2022-09-22 07:44:45,161] {dag.py:2273} INFO - Setting next_dagrun for postgresoperator_demo to None
+[2022-09-22 07:44:45,183] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/postgresoperator_demo.py took 0.310 seconds
+[2022-09-22 07:45:15,383] {scheduler_job.py:182} INFO - Started process (PID=3267) to work on /opt/airflow/dags/postgresoperator_demo.py
+[2022-09-22 07:45:15,385] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/postgresoperator_demo.py for tasks to queue
+[2022-09-22 07:45:15,387] {logging_mixin.py:104} INFO - [2022-09-22 07:45:15,387] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/postgresoperator_demo.py
+[2022-09-22 07:45:15,438] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['postgresoperator_demo']) retrieved from /opt/airflow/dags/postgresoperator_demo.py
+[2022-09-22 07:45:15,470] {logging_mixin.py:104} INFO - [2022-09-22 07:45:15,469] {dag.py:1818} INFO - Sync 1 DAGs
+[2022-09-22 07:45:15,499] {logging_mixin.py:104} INFO - [2022-09-22 07:45:15,499] {dag.py:2273} INFO - Setting next_dagrun for postgresoperator_demo to None
+[2022-09-22 07:45:15,513] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/postgresoperator_demo.py took 0.134 seconds
+[2022-09-22 07:45:46,451] {scheduler_job.py:182} INFO - Started process (PID=3294) to work on /opt/airflow/dags/postgresoperator_demo.py
+[2022-09-22 07:45:46,458] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/postgresoperator_demo.py for tasks to queue
+[2022-09-22 07:45:46,539] {logging_mixin.py:104} INFO - [2022-09-22 07:45:46,539] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/postgresoperator_demo.py
+[2022-09-22 07:45:47,329] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['postgresoperator_demo']) retrieved from /opt/airflow/dags/postgresoperator_demo.py
+[2022-09-22 07:45:47,406] {logging_mixin.py:104} INFO - [2022-09-22 07:45:47,406] {dag.py:1818} INFO - Sync 1 DAGs
+[2022-09-22 07:45:47,466] {logging_mixin.py:104} INFO - [2022-09-22 07:45:47,466] {dag.py:2273} INFO - Setting next_dagrun for postgresoperator_demo to None
+[2022-09-22 07:45:47,527] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/postgresoperator_demo.py took 1.082 seconds
+[2022-09-22 07:46:17,981] {scheduler_job.py:182} INFO - Started process (PID=3322) to work on /opt/airflow/dags/postgresoperator_demo.py
+[2022-09-22 07:46:17,983] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/postgresoperator_demo.py for tasks to queue
+[2022-09-22 07:46:17,984] {logging_mixin.py:104} INFO - [2022-09-22 07:46:17,984] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/postgresoperator_demo.py
+[2022-09-22 07:46:18,029] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['postgresoperator_demo']) retrieved from /opt/airflow/dags/postgresoperator_demo.py
+[2022-09-22 07:46:18,056] {logging_mixin.py:104} INFO - [2022-09-22 07:46:18,055] {dag.py:1818} INFO - Sync 1 DAGs
+[2022-09-22 07:46:18,075] {logging_mixin.py:104} INFO - [2022-09-22 07:46:18,075] {dag.py:2273} INFO - Setting next_dagrun for postgresoperator_demo to None
+[2022-09-22 07:46:18,088] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/postgresoperator_demo.py took 0.111 seconds
+[2022-09-22 07:46:48,382] {scheduler_job.py:182} INFO - Started process (PID=3349) to work on /opt/airflow/dags/postgresoperator_demo.py
+[2022-09-22 07:46:48,384] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/postgresoperator_demo.py for tasks to queue
+[2022-09-22 07:46:48,386] {logging_mixin.py:104} INFO - [2022-09-22 07:46:48,386] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/postgresoperator_demo.py
+[2022-09-22 07:46:48,431] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['postgresoperator_demo']) retrieved from /opt/airflow/dags/postgresoperator_demo.py
+[2022-09-22 07:46:48,461] {logging_mixin.py:104} INFO - [2022-09-22 07:46:48,461] {dag.py:1818} INFO - Sync 1 DAGs
+[2022-09-22 07:46:48,482] {logging_mixin.py:104} INFO - [2022-09-22 07:46:48,481] {dag.py:2273} INFO - Setting next_dagrun for postgresoperator_demo to None
+[2022-09-22 07:46:48,498] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/postgresoperator_demo.py took 0.122 seconds
+[2022-09-22 07:47:18,919] {scheduler_job.py:182} INFO - Started process (PID=3376) to work on /opt/airflow/dags/postgresoperator_demo.py
+[2022-09-22 07:47:18,920] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/postgresoperator_demo.py for tasks to queue
+[2022-09-22 07:47:18,922] {logging_mixin.py:104} INFO - [2022-09-22 07:47:18,921] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/postgresoperator_demo.py
+[2022-09-22 07:47:18,964] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['postgresoperator_demo']) retrieved from /opt/airflow/dags/postgresoperator_demo.py
+[2022-09-22 07:47:18,990] {logging_mixin.py:104} INFO - [2022-09-22 07:47:18,990] {dag.py:1818} INFO - Sync 1 DAGs
+[2022-09-22 07:47:19,007] {logging_mixin.py:104} INFO - [2022-09-22 07:47:19,007] {dag.py:2273} INFO - Setting next_dagrun for postgresoperator_demo to None
+[2022-09-22 07:47:19,022] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/postgresoperator_demo.py took 0.108 seconds
+[2022-09-22 07:47:49,768] {scheduler_job.py:182} INFO - Started process (PID=3403) to work on /opt/airflow/dags/postgresoperator_demo.py
+[2022-09-22 07:47:49,770] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/postgresoperator_demo.py for tasks to queue
+[2022-09-22 07:47:49,772] {logging_mixin.py:104} INFO - [2022-09-22 07:47:49,771] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/postgresoperator_demo.py
+[2022-09-22 07:47:49,815] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['postgresoperator_demo']) retrieved from /opt/airflow/dags/postgresoperator_demo.py
+[2022-09-22 07:47:49,843] {logging_mixin.py:104} INFO - [2022-09-22 07:47:49,843] {dag.py:1818} INFO - Sync 1 DAGs
+[2022-09-22 07:47:49,861] {logging_mixin.py:104} INFO - [2022-09-22 07:47:49,860] {dag.py:2273} INFO - Setting next_dagrun for postgresoperator_demo to None
+[2022-09-22 07:47:49,879] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/postgresoperator_demo.py took 0.116 seconds
+[2022-09-22 07:48:20,561] {scheduler_job.py:182} INFO - Started process (PID=3430) to work on /opt/airflow/dags/postgresoperator_demo.py
+[2022-09-22 07:48:20,568] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/postgresoperator_demo.py for tasks to queue
+[2022-09-22 07:48:20,571] {logging_mixin.py:104} INFO - [2022-09-22 07:48:20,571] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/postgresoperator_demo.py
+[2022-09-22 07:48:20,673] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['postgresoperator_demo']) retrieved from /opt/airflow/dags/postgresoperator_demo.py
+[2022-09-22 07:48:20,752] {logging_mixin.py:104} INFO - [2022-09-22 07:48:20,752] {dag.py:1818} INFO - Sync 1 DAGs
+[2022-09-22 07:48:20,819] {logging_mixin.py:104} INFO - [2022-09-22 07:48:20,818] {dag.py:2273} INFO - Setting next_dagrun for postgresoperator_demo to None
+[2022-09-22 07:48:20,884] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/postgresoperator_demo.py took 0.330 seconds
+[2022-09-22 07:48:50,959] {scheduler_job.py:182} INFO - Started process (PID=3457) to work on /opt/airflow/dags/postgresoperator_demo.py
+[2022-09-22 07:48:50,962] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/postgresoperator_demo.py for tasks to queue
+[2022-09-22 07:48:50,963] {logging_mixin.py:104} INFO - [2022-09-22 07:48:50,963] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/postgresoperator_demo.py
+[2022-09-22 07:48:51,010] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['postgresoperator_demo']) retrieved from /opt/airflow/dags/postgresoperator_demo.py
+[2022-09-22 07:48:51,040] {logging_mixin.py:104} INFO - [2022-09-22 07:48:51,040] {dag.py:1818} INFO - Sync 1 DAGs
+[2022-09-22 07:48:51,064] {logging_mixin.py:104} INFO - [2022-09-22 07:48:51,064] {dag.py:2273} INFO - Setting next_dagrun for postgresoperator_demo to None
+[2022-09-22 07:48:51,078] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/postgresoperator_demo.py took 0.124 seconds
+[2022-09-22 07:49:21,217] {scheduler_job.py:182} INFO - Started process (PID=3484) to work on /opt/airflow/dags/postgresoperator_demo.py
+[2022-09-22 07:49:21,221] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/postgresoperator_demo.py for tasks to queue
+[2022-09-22 07:49:21,223] {logging_mixin.py:104} INFO - [2022-09-22 07:49:21,223] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/postgresoperator_demo.py
+[2022-09-22 07:49:21,292] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['postgresoperator_demo']) retrieved from /opt/airflow/dags/postgresoperator_demo.py
+[2022-09-22 07:49:21,329] {logging_mixin.py:104} INFO - [2022-09-22 07:49:21,329] {dag.py:1818} INFO - Sync 1 DAGs
+[2022-09-22 07:49:21,360] {logging_mixin.py:104} INFO - [2022-09-22 07:49:21,360] {dag.py:2273} INFO - Setting next_dagrun for postgresoperator_demo to None
+[2022-09-22 07:49:21,383] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/postgresoperator_demo.py took 0.174 seconds
+[2022-09-22 07:49:51,664] {scheduler_job.py:182} INFO - Started process (PID=3511) to work on /opt/airflow/dags/postgresoperator_demo.py
+[2022-09-22 07:49:51,666] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/postgresoperator_demo.py for tasks to queue
+[2022-09-22 07:49:51,668] {logging_mixin.py:104} INFO - [2022-09-22 07:49:51,667] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/postgresoperator_demo.py
+[2022-09-22 07:49:51,752] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['postgresoperator_demo']) retrieved from /opt/airflow/dags/postgresoperator_demo.py
+[2022-09-22 07:49:51,803] {logging_mixin.py:104} INFO - [2022-09-22 07:49:51,803] {dag.py:1818} INFO - Sync 1 DAGs
+[2022-09-22 07:49:51,821] {logging_mixin.py:104} INFO - [2022-09-22 07:49:51,821] {dag.py:2273} INFO - Setting next_dagrun for postgresoperator_demo to None
+[2022-09-22 07:49:51,833] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/postgresoperator_demo.py took 0.176 seconds
+[2022-09-22 07:50:21,948] {scheduler_job.py:182} INFO - Started process (PID=3538) to work on /opt/airflow/dags/postgresoperator_demo.py
+[2022-09-22 07:50:21,950] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/postgresoperator_demo.py for tasks to queue
+[2022-09-22 07:50:21,952] {logging_mixin.py:104} INFO - [2022-09-22 07:50:21,951] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/postgresoperator_demo.py
+[2022-09-22 07:50:22,000] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['postgresoperator_demo']) retrieved from /opt/airflow/dags/postgresoperator_demo.py
+[2022-09-22 07:50:22,028] {logging_mixin.py:104} INFO - [2022-09-22 07:50:22,028] {dag.py:1818} INFO - Sync 1 DAGs
+[2022-09-22 07:50:22,047] {logging_mixin.py:104} INFO - [2022-09-22 07:50:22,046] {dag.py:2273} INFO - Setting next_dagrun for postgresoperator_demo to None
+[2022-09-22 07:50:22,062] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/postgresoperator_demo.py took 0.122 seconds
+[2022-09-22 07:50:52,440] {scheduler_job.py:182} INFO - Started process (PID=3565) to work on /opt/airflow/dags/postgresoperator_demo.py
+[2022-09-22 07:50:52,442] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/postgresoperator_demo.py for tasks to queue
+[2022-09-22 07:50:52,445] {logging_mixin.py:104} INFO - [2022-09-22 07:50:52,444] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/postgresoperator_demo.py
+[2022-09-22 07:50:52,490] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['postgresoperator_demo']) retrieved from /opt/airflow/dags/postgresoperator_demo.py
+[2022-09-22 07:50:52,517] {logging_mixin.py:104} INFO - [2022-09-22 07:50:52,517] {dag.py:1818} INFO - Sync 1 DAGs
+[2022-09-22 07:50:52,539] {logging_mixin.py:104} INFO - [2022-09-22 07:50:52,539] {dag.py:2273} INFO - Setting next_dagrun for postgresoperator_demo to None
+[2022-09-22 07:50:52,556] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/postgresoperator_demo.py took 0.125 seconds
+[2022-09-22 07:51:23,583] {scheduler_job.py:182} INFO - Started process (PID=3592) to work on /opt/airflow/dags/postgresoperator_demo.py
+[2022-09-22 07:51:23,585] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/postgresoperator_demo.py for tasks to queue
+[2022-09-22 07:51:23,586] {logging_mixin.py:104} INFO - [2022-09-22 07:51:23,586] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/postgresoperator_demo.py
+[2022-09-22 07:51:23,633] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['postgresoperator_demo']) retrieved from /opt/airflow/dags/postgresoperator_demo.py
+[2022-09-22 07:51:23,661] {logging_mixin.py:104} INFO - [2022-09-22 07:51:23,661] {dag.py:1818} INFO - Sync 1 DAGs
+[2022-09-22 07:51:23,679] {logging_mixin.py:104} INFO - [2022-09-22 07:51:23,679] {dag.py:2273} INFO - Setting next_dagrun for postgresoperator_demo to None
+[2022-09-22 07:51:23,692] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/postgresoperator_demo.py took 0.114 seconds
+[2022-09-22 07:51:53,764] {scheduler_job.py:182} INFO - Started process (PID=3619) to work on /opt/airflow/dags/postgresoperator_demo.py
+[2022-09-22 07:51:53,766] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/postgresoperator_demo.py for tasks to queue
+[2022-09-22 07:51:53,768] {logging_mixin.py:104} INFO - [2022-09-22 07:51:53,767] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/postgresoperator_demo.py
+[2022-09-22 07:51:53,813] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['postgresoperator_demo']) retrieved from /opt/airflow/dags/postgresoperator_demo.py
+[2022-09-22 07:51:53,841] {logging_mixin.py:104} INFO - [2022-09-22 07:51:53,841] {dag.py:1818} INFO - Sync 1 DAGs
+[2022-09-22 07:51:53,859] {logging_mixin.py:104} INFO - [2022-09-22 07:51:53,859] {dag.py:2273} INFO - Setting next_dagrun for postgresoperator_demo to None
+[2022-09-22 07:51:53,871] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/postgresoperator_demo.py took 0.112 seconds
+[2022-09-22 07:52:23,913] {scheduler_job.py:182} INFO - Started process (PID=3646) to work on /opt/airflow/dags/postgresoperator_demo.py
+[2022-09-22 07:52:23,915] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/postgresoperator_demo.py for tasks to queue
+[2022-09-22 07:52:23,916] {logging_mixin.py:104} INFO - [2022-09-22 07:52:23,916] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/postgresoperator_demo.py
+[2022-09-22 07:52:23,957] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['postgresoperator_demo']) retrieved from /opt/airflow/dags/postgresoperator_demo.py
+[2022-09-22 07:52:23,983] {logging_mixin.py:104} INFO - [2022-09-22 07:52:23,983] {dag.py:1818} INFO - Sync 1 DAGs
+[2022-09-22 07:52:24,001] {logging_mixin.py:104} INFO - [2022-09-22 07:52:24,001] {dag.py:2273} INFO - Setting next_dagrun for postgresoperator_demo to None
+[2022-09-22 07:52:24,016] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/postgresoperator_demo.py took 0.108 seconds
+[2022-09-22 07:52:54,600] {scheduler_job.py:182} INFO - Started process (PID=3673) to work on /opt/airflow/dags/postgresoperator_demo.py
+[2022-09-22 07:52:54,607] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/postgresoperator_demo.py for tasks to queue
+[2022-09-22 07:52:54,608] {logging_mixin.py:104} INFO - [2022-09-22 07:52:54,608] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/postgresoperator_demo.py
+[2022-09-22 07:52:54,669] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['postgresoperator_demo']) retrieved from /opt/airflow/dags/postgresoperator_demo.py
+[2022-09-22 07:52:54,714] {logging_mixin.py:104} INFO - [2022-09-22 07:52:54,713] {dag.py:1818} INFO - Sync 1 DAGs
+[2022-09-22 07:52:54,755] {logging_mixin.py:104} INFO - [2022-09-22 07:52:54,755] {dag.py:2273} INFO - Setting next_dagrun for postgresoperator_demo to None
+[2022-09-22 07:52:54,780] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/postgresoperator_demo.py took 0.186 seconds
+[2022-09-22 07:53:25,161] {scheduler_job.py:182} INFO - Started process (PID=3700) to work on /opt/airflow/dags/postgresoperator_demo.py
+[2022-09-22 07:53:25,163] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/postgresoperator_demo.py for tasks to queue
+[2022-09-22 07:53:25,164] {logging_mixin.py:104} INFO - [2022-09-22 07:53:25,164] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/postgresoperator_demo.py
+[2022-09-22 07:53:25,225] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['postgresoperator_demo']) retrieved from /opt/airflow/dags/postgresoperator_demo.py
+[2022-09-22 07:53:25,305] {logging_mixin.py:104} INFO - [2022-09-22 07:53:25,305] {dag.py:1818} INFO - Sync 1 DAGs
+[2022-09-22 07:53:25,346] {logging_mixin.py:104} INFO - [2022-09-22 07:53:25,346] {dag.py:2273} INFO - Setting next_dagrun for postgresoperator_demo to None
+[2022-09-22 07:53:25,371] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/postgresoperator_demo.py took 0.215 seconds
