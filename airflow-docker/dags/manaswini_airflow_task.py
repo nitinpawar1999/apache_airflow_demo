@@ -19,19 +19,19 @@ dag = DAG(
 def create_a_file(**context):
     print(f"In the job, msg is this {context['dag_run'].conf['msg']}")
     try:
-        with open('file_1.txt', mode="w") as f:
+        with open('/temp/file_1.txt', mode="w") as f:
             f.write(context['dag_run'].conf['msg'])
         print('File created')
     except Exception as e:
         print(e)
 
 def rename_a_file():
-    path = ""
+    path = "/temp/"
     os.rename(path+'file_1.txt', path+'file_2.txt')
 
 def remove_a_file():
-    if os.path.isfile('file_2.txt'):
-        os.remove('file_1.txt')
+    if os.path.isfile('/temp/file_2.txt'):
+        os.remove('/temp/file_2.txt')
         print("success")
     else:    
         print("File doesn't exists!")
